@@ -16,6 +16,8 @@ Formation Git pour Orange
 - git checkout
 - git branch
 - git switch
+- git merge
+- git rebase
 
 ## Remarques sur le proxy
 
