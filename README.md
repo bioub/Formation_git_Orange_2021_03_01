@@ -11,6 +11,11 @@ Formation Git pour Orange
 - git config
 - git log
 
+## Memento sur les branches
+
+- git checkout
+- git branch
+- git switch
 
 ## Remarques sur le proxy
 
