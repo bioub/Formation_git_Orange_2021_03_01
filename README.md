@@ -8,3 +8,5 @@ Formation Git pour Orange
 - git status
 - git add
 - git commit
+- git config
+- git log
